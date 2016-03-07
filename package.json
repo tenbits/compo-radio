@@ -1,0 +1,11 @@
+{
+  "name": "compo-radio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/radio.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Alex Kit<alex.kit@atmajs.com>",
+  "license": "MIT"
+}
