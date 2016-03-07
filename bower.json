@@ -1,6 +1,7 @@
 {
   "name": "compo-radio",
-  "version": "1.0.2",
+  "main": "lib/radio.js",
+  "version": "1.0.3",
   "authors": [
     "Alex Kit <alex.kit@atmajs.com>"
   ],
